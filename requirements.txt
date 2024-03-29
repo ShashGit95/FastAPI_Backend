@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+Jinja2
+alembic
+pymysql
+python-dotenv
+pydantic-settings
+fastapi-mail
+creditcard
